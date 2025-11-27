@@ -7,7 +7,8 @@ The primary goal of this project is to enhance the understanding of customer beh
 Tools Used:
 Databricks (Python): Used for data extraction, transformation, and aggregation to create customer segments.
 
-#Entity Relationship Diagram: 
+# Entity Relationship Diagram: 
 
 <img width="2000" height="892" alt="image" src="https://github.com/user-attachments/assets/ba90ae5e-f8b9-4fe1-8aba-b2c81423125c" />
+
 
