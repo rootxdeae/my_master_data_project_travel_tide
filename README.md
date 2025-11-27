@@ -1,8 +1,20 @@
 # Travel Tide Rewards Program: Data-Driven Customer Segmentation and Personalization 🏨✈️ 
 
-TravelTide, an innovative e-booking startup, is making its mark in the online travel industry with a clear mission: to create a personalized rewards program that keeps customers coming back to their platform.
+Executive Summary: TravelTide Customer Segmentation
 
-The primary goal of this project is to enhance the understanding of customer behaviors and preferences within the TravelTide platform by segmenting users based on their interactions and subsequently assigning personalized perks to improve engagement and satisfaction.
+Business Goal: Enhance customer retention and engagement for TravelTide by launching a personalized rewards program.
+
+Project Purpose: To analyze customer data and segment the user base, providing a data-driven foundation for the new program.
+
+My Role: As part of the Data Analytics team, I supported the initiative by performing data extraction, segmentation, and analysis.
+
+Key Methods:
+
+Customer segmentation and metric calculation using SQL, Python.
+
+Demographic analysis and data visualization using Tableau.
+
+Outcome: The project delivers clear customer segments and actionable recommendations, enabling the marketing team to design a highly targeted and effective rewards strategy.
 
 Tools Used:
 Databricks (Python): Used for data extraction, transformation, and aggregation to create customer segments.
