@@ -24,3 +24,8 @@ Databricks (Python): Used for data extraction, transformation, and aggregation t
 <img width="2000" height="892" alt="image" src="https://github.com/user-attachments/assets/ba90ae5e-f8b9-4fe1-8aba-b2c81423125c" />
 
 
+# Techniques & Tools 🧩 
+
+Python – data extraction and cleaning, data manipulation, ranking logic, clustering (KMeans)
+Tableau – visualization of clusters and demographics
+Databricks Notebook – analysis workflow
